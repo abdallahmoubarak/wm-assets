@@ -1,0 +1,22 @@
+{
+  "name": "wm-assets",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Abdallah Moubarak",
+  "description": "This package is Water Monster assets",
+  "main": "index.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@abdallahmoubarak"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdallahmoubarak/wm-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abdallahmoubarak/wm-assets/issues"
+  },
+  "homepage": "https://github.com/abdallahmoubarak/wm-assets#readme"
+}
