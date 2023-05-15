@@ -6,7 +6,7 @@
   "description": "This package is Water Monster assets",
   "main": "index.ts",
   "publishConfig": {
-    "@abdallahmoubarak:registry": "https://npm.pkg.github.com/@abdallahmoubarak"
+    "@abdallahmoubarak:registry": "https://npm.pkg.github.com/@abdallahmoubarak/wm-assets"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
